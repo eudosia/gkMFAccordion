@@ -14,7 +14,7 @@ gkMFAccordion
  
  Tested on Mac and Windows systems.
  Feel free to use and modify the gkMFAccordion class.
- The Source Code  is released under the MIT License:
+ The Source Code  is released under the LGPL V3 License:
  
 
 Copyright (c) 2012 Eudosia Systems - www.eudosia-systems.it
